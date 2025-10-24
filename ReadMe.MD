@@ -58,3 +58,10 @@
 - Import Postman collection (Mfm.Teg.EventsViewer.postman_collection.json) included in solution.
 - Run endpoints using Postman
 - Dev Rate limit is 3 requests per 10 seconds.
+
+# Mfm.Teg.EventsViewer project -- Frontend -- Work in progress
+## 1. Tech Stack
+- React, Node (Latest)
+- Bootstrap for React
+- Date functions liberay
+

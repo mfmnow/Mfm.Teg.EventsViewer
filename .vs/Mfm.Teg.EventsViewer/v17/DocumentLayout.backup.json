@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\components\\venueslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\components\\venueslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|solutionrelative:mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\components\\eventslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\components\\eventslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\components\\venueslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\components\\venueslist.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\events-viewer-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D581A14C-BC4E-B319-1217-80940432FE47}|events-viewer-app\\events-viewer-app.esproj|solutionrelative:events-viewer-app\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,38 +142,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsViewerDomainService.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:38:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\App.css",
+              "RelativeDocumentMoniker": "events-viewer-app\\src\\App.css",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\App.css",
+              "RelativeToolTip": "events-viewer-app\\src\\App.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-24T19:32:59.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\main.tsx",
+              "RelativeDocumentMoniker": "events-viewer-app\\src\\main.tsx",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\main.tsx",
+              "RelativeToolTip": "events-viewer-app\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-24T19:18:39.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\index.html",
+              "RelativeDocumentMoniker": "events-viewer-app\\index.html",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\index.html",
+              "RelativeToolTip": "events-viewer-app\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-24T19:18:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\package.json",
+              "RelativeDocumentMoniker": "events-viewer-app\\package.json",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\package.json",
+              "RelativeToolTip": "events-viewer-app\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T19:18:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EventsList.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\EventsList.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\components\\EventsList.tsx",
               "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\EventsList.tsx",
               "RelativeToolTip": "events-viewer-app\\src\\components\\EventsList.tsx",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-10-24T18:49:53.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "VenuesList.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\VenuesList.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\components\\VenuesList.tsx",
               "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\VenuesList.tsx",
               "RelativeToolTip": "events-viewer-app\\src\\components\\VenuesList.tsx",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAwC0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-10-24T18:01:46.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.WebApi\\Program.cs",
-              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Program.cs*",
-              "RelativeToolTip": "Mfm.Teg.EventsViewer.WebApi\\Program.cs*",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Program.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.WebApi\\Program.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAgwEwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T17:49:04.096Z",
@@ -165,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\App.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\App.tsx",
@@ -174,19 +255,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-10-24T17:42:37.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\package.json",
-              "RelativeDocumentMoniker": "events-viewer-app\\package.json",
-              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\package.json",
-              "RelativeToolTip": "events-viewer-app\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T17:40:49.243Z",
               "EditorCaption": ""
             }
           ]
