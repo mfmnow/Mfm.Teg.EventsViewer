@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mfm.Teg.EventsViewer.Domain.Models\Mfm.Teg.EventsViewer.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

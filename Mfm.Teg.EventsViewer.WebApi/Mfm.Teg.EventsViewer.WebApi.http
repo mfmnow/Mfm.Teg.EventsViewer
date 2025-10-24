@@ -1,0 +1,6 @@
+@Mfm.Teg.EventsViewer.WebApi_HostAddress = http://localhost:5116
+
+GET {{Mfm.Teg.EventsViewer.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

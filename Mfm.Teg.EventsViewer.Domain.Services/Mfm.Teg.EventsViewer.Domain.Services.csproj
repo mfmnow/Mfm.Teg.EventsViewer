@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mfm.Teg.EventsViewer.Data.Contracts\Mfm.Teg.EventsViewer.Data.Contracts.csproj" />
+    <ProjectReference Include="..\Mfm.Teg.EventsViewer.Data.Entities\Mfm.Teg.EventsViewer.Data.Entities.csproj" />
+    <ProjectReference Include="..\Mfm.Teg.EventsViewer.Domain.Contracts\Mfm.Teg.EventsViewer.Domain.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
