@@ -8,10 +8,10 @@
 - Visual Studio 2022
 
 ## 2. List of APIs
-- api/v1.0/event-viewer/all-venues -> Gets List of all Venues.
-- api/v1.0/event-viewer/events/{venueId} -> Gets List of Events by VenueId
+- `api/v1.0/event-viewer/all-venues` -> Gets List of all Venues.
+- `api/v1.0/event-viewer/events/{venueId}` -> Gets List of Events by VenueId
 
-## 3. Addressing protecting the API and S3 API
+## 3. Protecting the API and S3 API
 ### 3.1 Rate Limiting
 - Using built-in .NET Core 8 RateLimiter Middleware
 - WindowInSeconds and PermitLimit are configurable per env

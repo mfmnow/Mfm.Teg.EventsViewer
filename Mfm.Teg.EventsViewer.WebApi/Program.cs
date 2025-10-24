@@ -29,14 +29,16 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigureSwagger(builder.Configuration);
 
 // Adding Rate Limiting
-//builder.Services.AddRateLimiter(options => {
-//    options.AddFixedWindowLimiter("Default", opt => {
-//        opt.Window = TimeSpan.FromSeconds(builder.Configuration.GetValue<int>("RateLimiting:Default:WindowInSeconds"));
-//        opt.PermitLimit = builder.Configuration.GetValue<int>("RateLimiting:Default:PermitLimit"); 
-//    });
-//    //Too many requests
-//    options.RejectionStatusCode = 429;
-//});
+builder.Services.AddRateLimiter(options =>
+{
+    options.AddFixedWindowLimiter("Default", opt =>
+    {
+        opt.Window = TimeSpan.FromSeconds(builder.Configuration.GetValue<int>("RateLimiting:Default:WindowInSeconds"));
+        opt.PermitLimit = builder.Configuration.GetValue<int>("RateLimiting:Default:PermitLimit");
+    });
+    //Too many requests
+    options.RejectionStatusCode = 429;
+});
 
 builder.Services.AddCors(options =>
 {
@@ -74,6 +76,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-//app.UseRateLimiter();
+app.UseRateLimiter();
 
 app.Run();

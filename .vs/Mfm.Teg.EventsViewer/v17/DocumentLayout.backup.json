@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|solutionrelative:ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|solutionrelative:mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,6 +147,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReadMe.MD",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD",
+              "RelativeDocumentMoniker": "ReadMe.MD",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD",
+              "RelativeToolTip": "ReadMe.MD",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-24T19:41:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EventsViewerDomainService.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.css",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\App.css",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\App.css",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\main.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\main.tsx",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\index.html",
               "RelativeDocumentMoniker": "events-viewer-app\\index.html",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "package.json",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\package.json",
               "RelativeDocumentMoniker": "events-viewer-app\\package.json",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EventsList.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\EventsList.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\components\\EventsList.tsx",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VenuesList.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\components\\VenuesList.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\components\\VenuesList.tsx",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.WebApi\\Program.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\events-viewer-app\\src\\App.tsx",
               "RelativeDocumentMoniker": "events-viewer-app\\src\\App.tsx",
