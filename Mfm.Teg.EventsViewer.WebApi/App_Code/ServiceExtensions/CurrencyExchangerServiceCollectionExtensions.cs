@@ -7,7 +7,7 @@ using Mfm.Teg.EventsViewer.Domain.Services;
 namespace Mfm.Teg.EventsViewer.WebApi.App_Code.ServiceExtensions
 {
 #pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
-    public static class CurrencyExchangerServiceCollectionExtensions
+    public static class EventsViewerServiceCollectionExtensions
     {
         public static IServiceCollection AddFrankfurterServices(this IServiceCollection services, Action<EventsViewerAppConfig> eventsViewerAppConfigOptions)
         {

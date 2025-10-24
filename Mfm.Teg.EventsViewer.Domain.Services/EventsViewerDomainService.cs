@@ -14,9 +14,9 @@ namespace Mfm.Teg.EventsViewer.Domain.Services
     {
         private readonly IEventsAndVenuesDataAccessService _eventsAndVenuesDataAccessService;
 
-        public EventsViewerDomainService(IEventsAndVenuesDataAccessService exchangeRatesDataAccessService)
+        public EventsViewerDomainService(IEventsAndVenuesDataAccessService eventsAndVenuesDataAccessService)
         {
-            _eventsAndVenuesDataAccessService = exchangeRatesDataAccessService;
+            _eventsAndVenuesDataAccessService = eventsAndVenuesDataAccessService;
         }
         public async Task<List<Venue>> GetAllVenues(CancellationToken cancellationToken)
         {

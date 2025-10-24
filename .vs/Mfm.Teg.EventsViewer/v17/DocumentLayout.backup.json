@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|solutionrelative:ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{742BB4D2-C627-4EF9-A2E3-5877665DDCB5}|Mfm.Teg.EventsViewer.Data.Services\\Mfm.Teg.EventsViewer.Data.Services.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.data.services\\s3eventsandvenuesdataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742BB4D2-C627-4EF9-A2E3-5877665DDCB5}|Mfm.Teg.EventsViewer.Data.Services\\Mfm.Teg.EventsViewer.Data.Services.csproj|solutionrelative:mfm.teg.eventsviewer.data.services\\s3eventsandvenuesdataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,6 +119,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "S3EventsAndVenuesDataAccessService.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
+              "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:00:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventsViewerController.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
@@ -133,7 +150,7 @@
               "RelativeDocumentMoniker": "ReadMe.MD",
               "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD",
               "RelativeToolTip": "ReadMe.MD",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-10-24T16:51:47.821Z",
               "EditorCaption": ""

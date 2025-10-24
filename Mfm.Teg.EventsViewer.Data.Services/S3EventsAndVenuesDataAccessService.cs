@@ -22,11 +22,11 @@ namespace Mfm.Teg.EventsViewer.Data.Services
         private const string CACHE_KEY = "EventsAndVenuesCache";
 
         public S3EventsAndVenuesDataAccessService(HttpClient httpClient,
-            IEventsAndVenuesCacheService exchangeRatesCacheService,
+            IEventsAndVenuesCacheService eventsAndVenuesCacheService,
             ILogger<S3EventsAndVenuesDataAccessService> logger) 
         {
             _httpClient = httpClient;
-            _eventsAndVenuesCacheService = exchangeRatesCacheService;
+            _eventsAndVenuesCacheService = eventsAndVenuesCacheService;
             _logger = logger;
         }
 

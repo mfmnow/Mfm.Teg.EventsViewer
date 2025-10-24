@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|solutionrelative:ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\app_code\\serviceextensions\\currencyexchangerservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\app_code\\serviceextensions\\currencyexchangerservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A3A60B-878D-4924-B1EC-22592017CC3B}|Mfm.Teg.EventsViewer.Domain.Services\\Mfm.Teg.EventsViewer.Domain.Services.csproj|solutionrelative:mfm.teg.eventsviewer.domain.services\\eventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E3494E-B48A-436F-B472-1CBC7BAD0CBD}|Mfm.Teg.EventsViewer.Domain.Contracts\\Mfm.Teg.EventsViewer.Domain.Contracts.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.domain.contracts\\ieventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E3494E-B48A-436F-B472-1CBC7BAD0CBD}|Mfm.Teg.EventsViewer.Domain.Contracts\\Mfm.Teg.EventsViewer.Domain.Contracts.csproj|solutionrelative:mfm.teg.eventsviewer.domain.contracts\\ieventsviewerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{742BB4D2-C627-4EF9-A2E3-5877665DDCB5}|Mfm.Teg.EventsViewer.Data.Services\\Mfm.Teg.EventsViewer.Data.Services.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.data.services\\s3eventsandvenuesdataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742BB4D2-C627-4EF9-A2E3-5877665DDCB5}|Mfm.Teg.EventsViewer.Data.Services\\Mfm.Teg.EventsViewer.Data.Services.csproj|solutionrelative:mfm.teg.eventsviewer.data.services\\s3eventsandvenuesdataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|c:\\mfm\\code\\mfm.teg.eventsviewer\\mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22D7D968-EE41-44D1-A72F-7D97DC08B1FF}|Mfm.Teg.EventsViewer.WebApi\\Mfm.Teg.EventsViewer.WebApi.csproj|solutionrelative:mfm.teg.eventsviewer.webapi\\controllers\\eventsviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|Solution Items{00BEEA1F-97AF-4503-AC44-A6D89310AC18}|solutionrelative:ReadMe.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 27,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyExchangerServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\App_Code\\ServiceExtensions\\CurrencyExchangerServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.WebApi\\App_Code\\ServiceExtensions\\CurrencyExchangerServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\App_Code\\ServiceExtensions\\CurrencyExchangerServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.WebApi\\App_Code\\ServiceExtensions\\CurrencyExchangerServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:15:18.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsViewerDomainService.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.Domain.Services\\EventsViewerDomainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:14:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventsViewerDomainService.cs",
+              "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Contracts\\IEventsViewerDomainService.cs",
+              "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Domain.Contracts\\IEventsViewerDomainService.cs",
+              "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Domain.Contracts\\IEventsViewerDomainService.cs",
+              "RelativeToolTip": "Mfm.Teg.EventsViewer.Domain.Contracts\\IEventsViewerDomainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:14:24.019Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -118,33 +169,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "S3EventsAndVenuesDataAccessService.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
               "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
               "RelativeToolTip": "Mfm.Teg.EventsViewer.Data.Services\\S3EventsAndVenuesDataAccessService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwD4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T17:00:47.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EventsViewerController.cs",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
               "RelativeDocumentMoniker": "Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
               "ToolTip": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
               "RelativeToolTip": "Mfm.Teg.EventsViewer.WebApi\\Controllers\\EventsViewerController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T16:54:19.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ReadMe.MD",
               "DocumentMoniker": "C:\\MFM\\Code\\Mfm.Teg.EventsViewer\\ReadMe.MD",
               "RelativeDocumentMoniker": "ReadMe.MD",

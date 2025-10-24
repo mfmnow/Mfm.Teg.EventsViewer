@@ -12,7 +12,7 @@ namespace Mfm.Teg.EventsViewer.Domain.Contracts
         /// </summary>
         /// <param name="currency">Short name of a currency.</param>
         /// <param name="cancellationToken">Cancellation Token</param>
-        /// <returns>Currency exchange rates object <see cref="Event"/></returns>
+        /// <returns>Cached object <see cref="EventsAndVenuesResponse"/></returns>
         Task<List<Venue>> GetAllVenues(CancellationToken cancellationToken);
 
         /// <summary>

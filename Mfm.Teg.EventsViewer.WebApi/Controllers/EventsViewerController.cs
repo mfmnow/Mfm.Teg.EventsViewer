@@ -17,7 +17,7 @@ namespace Mfm.Teg.EventsViewer.WebApi.Controllers
         private readonly IEventsViewerDomainService _eventsViewerDomainService;
 
         /// <summary>
-        /// Manages Currency Exchange features
+        /// Manages Events Viewer features
         /// </summary>
         /// <param name="eventsViewerDomainService"></param>
         /// <param name="logger"></param>
