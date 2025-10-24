@@ -29,7 +29,7 @@ namespace Mfm.Teg.EventsViewer.Domain.Services
             {
                 Id = venue.Id,
                 Label = $"{venue.Name} - {venue.Location}"
-            }).ToList();
+            }).OrderBy(v => v.Label).ToList();
         }
 
         public async Task<List<Event>> GetEventsByVenueId(int venueId, CancellationToken cancellationToken)
@@ -45,7 +45,7 @@ namespace Mfm.Teg.EventsViewer.Domain.Services
                 Name = ev.Name,
                 Description = ev.Description,
                 StartDate = ev.StartDate
-            }).ToList();
+            }).OrderBy(e => e.StartDate).ToList();
         }
     }
 }

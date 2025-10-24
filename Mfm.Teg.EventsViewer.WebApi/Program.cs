@@ -29,13 +29,24 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigureSwagger(builder.Configuration);
 
 // Adding Rate Limiting
-builder.Services.AddRateLimiter(options => {
-    options.AddFixedWindowLimiter("Default", opt => {
-        opt.Window = TimeSpan.FromSeconds(builder.Configuration.GetValue<int>("RateLimiting:Default:WindowInSeconds"));
-        opt.PermitLimit = builder.Configuration.GetValue<int>("RateLimiting:Default:PermitLimit"); 
-    });
-    //Too many requests
-    options.RejectionStatusCode = 429;
+//builder.Services.AddRateLimiter(options => {
+//    options.AddFixedWindowLimiter("Default", opt => {
+//        opt.Window = TimeSpan.FromSeconds(builder.Configuration.GetValue<int>("RateLimiting:Default:WindowInSeconds"));
+//        opt.PermitLimit = builder.Configuration.GetValue<int>("RateLimiting:Default:PermitLimit"); 
+//    });
+//    //Too many requests
+//    options.RejectionStatusCode = 429;
+//});
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder =>
+        {
+            builder.AllowAnyOrigin() // Allows requests from any origin
+                   .AllowAnyHeader() // Allows any header in the request
+                   .AllowAnyMethod(); // Allows any HTTP method (GET, POST, PUT, DELETE, etc.)
+        });
 });
 
 
@@ -57,10 +68,12 @@ app.UseMiddleware<ErrorHandlerMiddleware>();
 
 app.UseHttpsRedirection();
 
+app.UseCors("AllowAllOrigins"); // Apply the defined CORS policy
+
 app.UseAuthorization();
 
 app.MapControllers();
 
-app.UseRateLimiter();
+//app.UseRateLimiter();
 
 app.Run();
