@@ -65,3 +65,10 @@
 - Bootstrap for React
 - Date functions liberay
 
+## 2. Run / Test
+- Open terminal/cmd
+- Run `npm install`
+- Run `npm run build`
+- Run `npm run dev`
+- Open the web browser and nagivate to: http://localhost:5173/
+
