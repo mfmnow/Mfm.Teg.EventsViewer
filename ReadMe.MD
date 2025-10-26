@@ -73,5 +73,13 @@
 - Open the web browser and nagivate to: http://localhost:5173/
 
 ## 3. Screenshots
-<img src=""/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S01.png"/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S02.png"/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S03.png"/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S04.png"/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S05.png"/>
+<img src="https://github.com/mfmnow/Mfm.Teg.EventsViewer/blob/main/S06.png"/>
+
+
+
 
