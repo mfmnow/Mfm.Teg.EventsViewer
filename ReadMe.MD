@@ -72,3 +72,6 @@
 - Run `npm run dev`
 - Open the web browser and nagivate to: http://localhost:5173/
 
+## 3. Screenshots
+<img src=""/>
+

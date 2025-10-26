@@ -3,12 +3,18 @@ import { useState, useEffect } from 'react';
 import { Dropdown, DropdownButton } from 'react-bootstrap';
 import EventsList from './EventsList';
 
+interface Venue {
+    id: number;
+    label: string;
+}
+
 function VenuesList() {
 
-    const [data, setData] = useState([]);
+    const [data, setData] = useState<Venue[]>([]);
     const [venueId, setVenueId] = useState(0);
+    const [venueName, setVenueName] = useState("");
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
+    const [error, setError] = useState("");
 
     useEffect(() => {
         const fetchData = async () => {
@@ -18,10 +24,9 @@ function VenuesList() {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const result = await response.json();
-                console.log(result)
                 setData(result);
             } catch (e) {
-                setError(error);
+                setError(`Cannot load Venues: ${e}`);
             } finally {
                 setLoading(false);
             }
@@ -31,18 +36,19 @@ function VenuesList() {
     }, []); // Empty dependency array ensures this runs once on mount
 
     if (loading) return <p>Loading data...</p>;
-    if (error) return <p>Error: {error}</p>;
+    if (error != "") return <p>{error}</p>;
 
     return (
         <div>
             <DropdownButton className="custom-dropdown-menu" id="dropdown-item-button" title="Select Venue">
-                {data.map((venue : any, index) => (
+                {data.map((venue, index) => (
                     <Dropdown.Item onClick={() => {
                         setVenueId(venue.id);
+                        setVenueName(venue.label);
                     }} as="button" key={index}>{venue.label}</Dropdown.Item>
                 ))}
             </DropdownButton>
-            {venueId > 0 && <EventsList key={venueId} venueId={venueId}></EventsList>}
+            {venueId > 0 && <EventsList key={venueId} name={venueName} venueId={venueId}></EventsList>}
         </div>
     );
 }
