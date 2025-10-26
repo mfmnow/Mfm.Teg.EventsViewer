@@ -1,4 +1,6 @@
-# Mfm.Teg.EventsViewer project -- Backend
+# Mfm.Teg.EventsViewer project 
+
+# --- Backend ---
 
 ## 1. Tech Stack
 - .NET Core 8
@@ -59,7 +61,7 @@
 - Run endpoints using Postman
 - Dev Rate limit is 3 requests per 10 seconds.
 
-# Mfm.Teg.EventsViewer project -- Frontend -- Work in progress
+# --- Frontend ---
 ## 1. Tech Stack
 - React, Node (Latest)
 - Bootstrap for React
